@@ -65,7 +65,7 @@
       "url": "icon-512.png"
     },
     {
-      "hash": "sha256-hOdecQL\/xK901Bdst1aggaSvTNJuKy98DIIk6dzz8ss=",
+      "hash": "sha256-5iHygS4DEDRRDJ4mAZW1JvRAJHGZWz6RNd5fvDR0YBo=",
       "url": "index.html"
     },
     {
@@ -73,7 +73,7 @@
       "url": "manifest.json"
     },
     {
-      "hash": "sha256-RWrQwk4lA4Zln4bd2yVSOo4XI7n1+NcLE5iA8vtd3Vg=",
+      "hash": "sha256-FdKHwOPlgDG2Vf7foNXJaSWbKvcE2wAdO30Vg\/KqslU=",
       "url": "_framework\/_bin\/fr\/Calendar.resources.dll"
     },
     {
@@ -205,9 +205,9 @@
       "url": "_framework\/blazor.webassembly.js"
     },
     {
-      "hash": "sha256-11pyg7rywLMg19rSd5diO81NuB9mdRJHUdvevAZODiM=",
+      "hash": "sha256-+eEGB9d2EhodQkC24u9ZVsVhXebGZ4pYx7o3fmemWc4=",
       "url": "_framework\/blazor.boot.json"
     }
   ],
-  "version": "qUK5q9an"
+  "version": "V18YUxet"
 };
